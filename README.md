@@ -18,13 +18,13 @@ To play the game, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HypertextCoder/Flappy-Bird.git
+   git clone https://github.com/HypertextCoder/Flappy-bird.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd flappy-bird
+   cd Flappy-bird
    ```
 
 3. Open the `index.html` file in your web browser.
